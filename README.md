@@ -8,4 +8,5 @@ The operations include -
 4. Transpose of a matrix (along the main, side, horizontal or vertical diagonal)
 5. Determinant of a matrix
 6. Inverse of a matrix
+
 0. Exit
