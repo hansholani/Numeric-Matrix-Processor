@@ -9,3 +9,6 @@ The operations include -
 5. Determinant of a matrix
 6. Inverse of a matrix
 0. Exit
+
+You can find the main program as Main.java in the src/processor/ folder.
+You can also find the used algorithms in the same folder.
